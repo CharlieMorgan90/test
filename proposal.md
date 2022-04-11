@@ -10,7 +10,7 @@ A game thats a combination of wheel of fortune and jeopardy.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-Two player game, first player spins a wheel with different outcomes (points, bankruptcy...) using random function, player then choose a question topic and a random question under that topic is displayed using lists and random function, players then race to answer the question player 1's button is '1' and players '2' button is '2' what button is pressed first decides who answers the question, check if the answer is right using dictionaries and add the amount or subtract the amount of points depending if the question was answered correctly, repeat untill a player gets a score of 1000.
+Two player game, first player spins a wheel with different outcomes (points, bankruptcy...) using random function, player then chooses a question topic and a random question under that topic is displayed using lists and random function, players then race to answer the question and player 1's button is '1' and players '2' button is '2' and what button is pressed first decides who answers the question, check if the answer is right using dictionaries and add the amount or subtract the amount of points depending if the question was answered correctly, repeat untill a player gets a score of 1000.
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
