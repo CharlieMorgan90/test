@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Charlie Morgan
 
 #### Your section leader's name
 
-TODO
+Jeremy Fan
 
 #### Project title
 
-TODO
+Wheel of Jeopardy
 
 ***
 
